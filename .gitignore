@@ -1,0 +1,14 @@
+archive/
+improved_xray_detector_data/
+uploads/
+.kaggle/
+.github/
+*.h5
+*.hdf5
+*.pb
+*.onnx
+*.tflite
+*.ckpt
+improved_pneumonia_model.h5
+improved_xray_detector_model.h5
+simple_trained_model.h5
