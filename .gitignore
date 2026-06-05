@@ -9,6 +9,3 @@ uploads/
 *.onnx
 *.tflite
 *.ckpt
-improved_pneumonia_model.h5
-improved_xray_detector_model.h5
-simple_trained_model.h5
